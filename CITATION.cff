@@ -1,0 +1,24 @@
+
+cff-version: 1.2.0
+message: "If you use this research code, please cite the associated publication."
+type: software
+
+title: "SMA-splicing-drug-response-ML"
+
+authors:
+  - family-names: "Mahtabi Nourani"
+    given-names: "Kiana"
+  - family-names: "Demirel"
+    given-names: "Hasan"
+  - family-names: "Seytanoglu"
+    given-names: "Adil"
+  - family-names: "Yağlı"
+    given-names: "Cem"
+
+repository-code: "https://github.com/kianamahtabinourani/SMA-splicing-drug-response-ML"
+
+abstract: >-
+  MATLAB-based computational framework for analyzing
+  splice-modifying drug responses in spinal muscular atrophy
+  using RNA splicing measurements, sequence-regulatory
+  features, statistical analysis, and machine learning.
