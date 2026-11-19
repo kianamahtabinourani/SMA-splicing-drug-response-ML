@@ -99,6 +99,34 @@ Model evaluation included cross-validation, R², RMSE, and an additional nested 
 - Random Forest permutation importance
 - Assessment of model limitations and generalizability
 
+- 
+## Research Framework and Visualizations
+
+### Computational Pipeline
+
+![Computational pipeline](figures/computational_pipeline.png)
+
+**Figure 1.** System-level computational pipeline integrating RNA splicing measurements, statistical analysis, sequence-regulatory features, and machine learning for splice-modifying drug-response modeling.
+
+### Sequence-Regulatory Feature Analysis
+
+![Sequence regulatory features](figures/sequence_regulatory_features.png)
+
+**Figure 2.** Comparison of mean exonic splicing enhancer (ESE) density, exonic splicing silencer (ESS) density, and SR protein motif hits across SMN2 and ELP1 splice-site response categories.
+
+### Machine Learning Feature Importance
+
+![Feature importance](figures/feature_importance.png)
+
+**Figure 3.** Random Forest permutation feature importance for risdiplam and branaplam, measured by the mean increase in held-out mean squared error (MSE). Baseline DMSO PSI was the dominant predictor.
+
+### Splice-Site Response Distributions
+
+![Splice-site response distribution](figures/splice_site_response_distribution.png)
+
+**Figure 4.** Two-dimensional dot-cloud visualizations of responsive and nonresponsive splice-site categories for SMN2 and ELP1 under risdiplam and branaplam conditions.
+  
+
 ## Experimental Results
 
 ### Original Model Evaluation
