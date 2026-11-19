@@ -122,7 +122,7 @@ Model evaluation included cross-validation, R², RMSE, and an additional nested 
 
 ### Splice-Site Response Distributions
 
-![Splice-site response distribution](figures/splice_site_response_distribution.png)
+![Splice-site response distribution](figures/splice_site_response_distribution%20.png)
 
 **Figure 4.** Two-dimensional dot-cloud visualizations of responsive and nonresponsive splice-site categories for SMN2 and ELP1 under risdiplam and branaplam conditions.
   
