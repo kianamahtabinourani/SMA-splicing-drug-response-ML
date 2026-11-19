@@ -99,6 +99,27 @@ Model evaluation included cross-validation, R², RMSE, and an additional nested 
 - Random Forest permutation importance
 - Assessment of model limitations and generalizability
 
+## Repository Structure
+
+The repository is organized into the following directories:
+
+| Directory | Description |
+|---|---|
+| `code/01_sequence_preprocessing/` | Sequence extraction and preprocessing |
+| `code/02_feature_engineering/` | PSI and regulatory feature extraction |
+| `code/03_statistical_analysis/` | Statistical feature computation |
+| `code/04_biological_classification/` | Drug-response classification |
+| `code/05_sequence_functional_analysis/` | Sequence-functional analysis |
+| `code/06_machine_learning/` | Machine learning and model evaluation |
+| `docs/` | Dataset and workflow documentation |
+| `figures/` | Research visualizations |
+| `results/` | Experimental results |
+
+### Documentation
+
+- [Dataset Documentation](docs/DATA.md)
+- [Computational Workflow](docs/WORKFLOW.md)
+
 - 
 ## Research Framework and Visualizations
 
